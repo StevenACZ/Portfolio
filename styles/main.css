@@ -226,6 +226,7 @@ a:hover {
             border-radius: 12.5px;
             background-color: #4c2358;
             border: none;
+            cursor: pointer;
           }
 
         .portfolio__container--image:hover .inside {
@@ -338,6 +339,7 @@ a:hover {
           height: 44px;
           width: 160px;
           color: white;
+          cursor: pointer;
         }
 
     /*-- .right --*/
